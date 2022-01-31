@@ -1,0 +1,10 @@
+Verifying knowledge assertions
+Verifying for generic connector
+  Verifying when ALL participants are honest
+  Verifying when NO participants are honest
+Checked 7 theorems; No failures!
+
+> @reach-sh/reach-vote@ index /app
+> node --experimental-modules --unhandled-rejections=strict index.mjs
+
+This person prefers coffee
